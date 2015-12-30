@@ -1,0 +1,1220 @@
+{
+  "data" : {
+    "trainList" : [
+      {
+        "duration" : "1小时39分",
+        "endTime" : "16:20",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 37,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 37,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 37,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 10,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 10,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "14:41",
+        "to" : "绵阳",
+        "trainNo" : "K870",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时34分",
+        "endTime" : "18:09",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 8,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 8,
+            "seat" : "硬卧中",
+            "seatPrice" : "71"
+          },
+          {
+            "remainNum" : 8,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 4,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 4,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "16:35",
+        "to" : "绵阳",
+        "trainNo" : "K289/K292",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时40分",
+        "endTime" : "19:27",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 430,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 429,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 429,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 429,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 27,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 27,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "17:47",
+        "to" : "绵阳",
+        "trainNo" : "K386/K387",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时20分",
+        "endTime" : "15:29",
+        "from" : "成都南",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "二等座",
+            "seatPrice" : "48"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "一等座",
+            "seatPrice" : "58"
+          }
+        ],
+        "startTime" : "14:09",
+        "to" : "绵阳",
+        "trainNo" : "C6318",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "1小时44分",
+        "endTime" : "13:40",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 255,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 414,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 414,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 414,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 21,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 21,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "11:56",
+        "to" : "绵阳",
+        "trainNo" : "K1058/K1059",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时39分",
+        "endTime" : "15:05",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 69,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 69,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 69,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 16,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 16,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "13:26",
+        "to" : "绵阳",
+        "trainNo" : "K166",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时31分",
+        "endTime" : "22:45",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 4,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 4,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "21:14",
+        "to" : "绵阳",
+        "trainNo" : "K6",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时2分",
+        "endTime" : "19:18",
+        "from" : "成都东",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "二等座",
+            "seatPrice" : "45"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "一等座",
+            "seatPrice" : "54"
+          }
+        ],
+        "startTime" : "18:16",
+        "to" : "绵阳",
+        "trainNo" : "C6314",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "1小时10分",
+        "endTime" : "16:42",
+        "from" : "成都南",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "二等座",
+            "seatPrice" : "48"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "一等座",
+            "seatPrice" : "58"
+          }
+        ],
+        "startTime" : "15:32",
+        "to" : "绵阳",
+        "trainNo" : "C6312",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "1小时43分",
+        "endTime" : "23:33",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 62,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 62,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 62,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 6,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 6,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "21:50",
+        "to" : "绵阳",
+        "trainNo" : "K1364",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时42分",
+        "endTime" : "10:42",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 41,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 41,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 41,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 6,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 6,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "09:00",
+        "to" : "绵阳",
+        "trainNo" : "T8",
+        "trainType" : "空调特快"
+      },
+      {
+        "duration" : "1小时34分",
+        "endTime" : "20:44",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 143,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 143,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 143,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 15,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 15,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "19:10",
+        "to" : "绵阳",
+        "trainNo" : "K452/K453",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "59分",
+        "endTime" : "08:58",
+        "from" : "成都东",
+        "seatInfos" : [
+          {
+            "remainNum" : 292,
+            "seat" : "二等座",
+            "seatPrice" : "45"
+          },
+          {
+            "remainNum" : 17,
+            "seat" : "一等座",
+            "seatPrice" : "54"
+          }
+        ],
+        "startTime" : "07:59",
+        "to" : "绵阳",
+        "trainNo" : "C6214",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "1小时31分",
+        "endTime" : "19:06",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 116,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 324,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 324,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 324,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 23,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 23,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "17:35",
+        "to" : "绵阳",
+        "trainNo" : "K206/K207",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时34分",
+        "endTime" : "16:54",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 170,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 170,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 170,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 11,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 11,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "15:20",
+        "to" : "绵阳",
+        "trainNo" : "K856/K857",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时43分",
+        "endTime" : "16:34",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 103,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          }
+        ],
+        "startTime" : "14:51",
+        "to" : "绵阳",
+        "trainNo" : "K9532",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时34分",
+        "endTime" : "20:59",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 182,
+            "seat" : "硬座",
+            "seatPrice" : "16.5"
+          },
+          {
+            "remainNum" : 169,
+            "seat" : "硬卧上",
+            "seatPrice" : "62.5"
+          },
+          {
+            "remainNum" : 169,
+            "seat" : "硬卧中",
+            "seatPrice" : "67.5"
+          },
+          {
+            "remainNum" : 169,
+            "seat" : "硬卧下",
+            "seatPrice" : "70.5"
+          },
+          {
+            "remainNum" : 21,
+            "seat" : "软卧上",
+            "seatPrice" : "95.5"
+          },
+          {
+            "remainNum" : 21,
+            "seat" : "软卧下",
+            "seatPrice" : "101.5"
+          }
+        ],
+        "startTime" : "19:25",
+        "to" : "绵阳",
+        "trainNo" : "1486",
+        "trainType" : "其他"
+      },
+      {
+        "duration" : "2小时15分",
+        "endTime" : "13:16",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 330,
+            "seat" : "硬座",
+            "seatPrice" : "16.5"
+          },
+          {
+            "remainNum" : 428,
+            "seat" : "硬卧上",
+            "seatPrice" : "62.5"
+          },
+          {
+            "remainNum" : 428,
+            "seat" : "硬卧中",
+            "seatPrice" : "67.5"
+          },
+          {
+            "remainNum" : 428,
+            "seat" : "硬卧下",
+            "seatPrice" : "70.5"
+          },
+          {
+            "remainNum" : 28,
+            "seat" : "软卧上",
+            "seatPrice" : "95.5"
+          },
+          {
+            "remainNum" : 28,
+            "seat" : "软卧下",
+            "seatPrice" : "101.5"
+          }
+        ],
+        "startTime" : "11:01",
+        "to" : "绵阳",
+        "trainNo" : "1718/1719",
+        "trainType" : "其他"
+      },
+      {
+        "duration" : "1小时31分",
+        "endTime" : "23:09",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 24,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 24,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 24,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 10,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 10,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "21:38",
+        "to" : "绵阳",
+        "trainNo" : "K246/K247",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时1分",
+        "endTime" : "13:31",
+        "from" : "成都东",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "二等座",
+            "seatPrice" : "45"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "一等座",
+            "seatPrice" : "54"
+          }
+        ],
+        "startTime" : "12:30",
+        "to" : "绵阳",
+        "trainNo" : "C6308",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "1小时22分",
+        "endTime" : "19:59",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 1,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 1,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 1,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 1,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 1,
+            "seat" : "软卧下",
+            "seatPrice" : "104"
+          }
+        ],
+        "startTime" : "18:37",
+        "to" : "绵阳",
+        "trainNo" : "K281/K284",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时43分",
+        "endTime" : "00:30",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 115,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          }
+        ],
+        "startTime" : "22:47",
+        "to" : "绵阳",
+        "trainNo" : "K9396/K9397",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时5分",
+        "endTime" : "11:50",
+        "from" : "成都南",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "二等座",
+            "seatPrice" : "48"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "一等座",
+            "seatPrice" : "58"
+          }
+        ],
+        "startTime" : "10:45",
+        "to" : "绵阳",
+        "trainNo" : "C6304",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "1小时40分",
+        "endTime" : "14:52",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 241,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 14,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 14,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 14,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 1,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 1,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "13:12",
+        "to" : "绵阳",
+        "trainNo" : "K1502/K1503",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时24分",
+        "endTime" : "12:47",
+        "from" : "成都南",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "二等座",
+            "seatPrice" : "48"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "一等座",
+            "seatPrice" : "58"
+          }
+        ],
+        "startTime" : "11:23",
+        "to" : "绵阳",
+        "trainNo" : "C6306",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "1小时46分",
+        "endTime" : "14:02",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 1207,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          }
+        ],
+        "startTime" : "12:16",
+        "to" : "绵阳",
+        "trainNo" : "K9534",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "2小时8分",
+        "endTime" : "09:20",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 1503,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          }
+        ],
+        "startTime" : "07:12",
+        "to" : "绵阳",
+        "trainNo" : "K9536",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时30分",
+        "endTime" : "10:13",
+        "from" : "成都南",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "二等座",
+            "seatPrice" : "48"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "一等座",
+            "seatPrice" : "58"
+          }
+        ],
+        "startTime" : "08:43",
+        "to" : "绵阳",
+        "trainNo" : "C6302",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "1小时27分",
+        "endTime" : "09:03",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 442,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 223,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 223,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 223,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 20,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 20,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "07:36",
+        "to" : "绵阳",
+        "trainNo" : "K546/K547",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时10分",
+        "endTime" : "15:02",
+        "from" : "成都南",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "二等座",
+            "seatPrice" : "48"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "一等座",
+            "seatPrice" : "58"
+          }
+        ],
+        "startTime" : "13:52",
+        "to" : "绵阳",
+        "trainNo" : "C6310",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "1小时33分",
+        "endTime" : "12:54",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 19,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 19,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 19,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "11:21",
+        "to" : "绵阳",
+        "trainNo" : "K2058/K2059",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时34分",
+        "endTime" : "15:27",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 211,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 345,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 345,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 345,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 20,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 20,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "13:53",
+        "to" : "绵阳",
+        "trainNo" : "K258",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "55分",
+        "endTime" : "08:20",
+        "from" : "成都东",
+        "seatInfos" : [
+          {
+            "remainNum" : 345,
+            "seat" : "二等座",
+            "seatPrice" : "45"
+          },
+          {
+            "remainNum" : 22,
+            "seat" : "一等座",
+            "seatPrice" : "54"
+          }
+        ],
+        "startTime" : "07:25",
+        "to" : "绵阳",
+        "trainNo" : "C6202",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "1小时2分",
+        "endTime" : "18:16",
+        "from" : "成都东",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "二等座",
+            "seatPrice" : "45"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "一等座",
+            "seatPrice" : "54"
+          }
+        ],
+        "startTime" : "17:14",
+        "to" : "绵阳",
+        "trainNo" : "C6204",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "1小时31分",
+        "endTime" : "14:26",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 67,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 67,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 67,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 9,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 9,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "12:55",
+        "to" : "绵阳",
+        "trainNo" : "K880",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "1小时31分",
+        "endTime" : "11:41",
+        "from" : "成都",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "硬座",
+            "seatPrice" : "18.5"
+          },
+          {
+            "remainNum" : 60,
+            "seat" : "硬卧上",
+            "seatPrice" : "64.5"
+          },
+          {
+            "remainNum" : 60,
+            "seat" : "硬卧中",
+            "seatPrice" : "69.5"
+          },
+          {
+            "remainNum" : 60,
+            "seat" : "硬卧下",
+            "seatPrice" : "72.5"
+          },
+          {
+            "remainNum" : 4,
+            "seat" : "软卧上",
+            "seatPrice" : "97.5"
+          },
+          {
+            "remainNum" : 4,
+            "seat" : "软卧下",
+            "seatPrice" : "103.5"
+          }
+        ],
+        "startTime" : "10:10",
+        "to" : "绵阳",
+        "trainNo" : "K390/K391",
+        "trainType" : "快速"
+      },
+      {
+        "duration" : "56分",
+        "endTime" : "21:30",
+        "from" : "成都东",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "二等座",
+            "seatPrice" : "45"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "一等座",
+            "seatPrice" : "54"
+          }
+        ],
+        "startTime" : "20:34",
+        "to" : "绵阳",
+        "trainNo" : "C6206",
+        "trainType" : "城际高速"
+      },
+      {
+        "duration" : "43分",
+        "endTime" : "22:04",
+        "from" : "成都东",
+        "seatInfos" : [
+          {
+            "remainNum" : 0,
+            "seat" : "二等座",
+            "seatPrice" : "45"
+          },
+          {
+            "remainNum" : 0,
+            "seat" : "一等座",
+            "seatPrice" : "54"
+          }
+        ],
+        "startTime" : "21:21",
+        "to" : "绵阳",
+        "trainNo" : "C6208",
+        "trainType" : "城际高速"
+      }
+    ]
+  },
+  "ret" : true
+}
